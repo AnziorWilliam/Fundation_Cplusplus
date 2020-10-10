@@ -1,0 +1,2 @@
+P:\CPlusPlus_Fundation\Search_Matrix\Debug\Search_Matrix.exe
+P:\CPlusPlus_Fundation\Search_Matrix\Debug\Search_Matrix.pdb
