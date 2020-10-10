@@ -1,2 +1,3 @@
 ﻿  ArrayCheck.cpp
+P:\CPlusPlus_Fundation\ArrayCheck\ArrayCheck.cpp(157,14): warning C4305: “return”: 从“int”到“bool”截断
   ArrayCheck.vcxproj -> P:\CPlusPlus_Fundation\ArrayCheck\Debug\ArrayCheck.exe
