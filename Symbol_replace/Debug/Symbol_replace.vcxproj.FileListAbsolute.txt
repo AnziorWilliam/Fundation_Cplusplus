@@ -1,0 +1,2 @@
+P:\CPlusPlus_Fundation\Symbol_replace\Debug\Symbol_replace.exe
+P:\CPlusPlus_Fundation\Symbol_replace\Debug\Symbol_replace.pdb
