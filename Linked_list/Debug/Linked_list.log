@@ -1,0 +1,3 @@
+﻿  Linked_list.cpp
+P:\CPlusPlus_Fundation\Linked_list\Linked_list.cpp(132): warning C4715: “do_out”: 不是所有的控件路径都返回值
+  Linked_list.vcxproj -> P:\CPlusPlus_Fundation\Linked_list\Debug\Linked_list.exe

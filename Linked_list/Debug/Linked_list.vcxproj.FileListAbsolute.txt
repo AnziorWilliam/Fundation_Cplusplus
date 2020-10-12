@@ -1,0 +1,2 @@
+P:\CPlusPlus_Fundation\Linked_list\Debug\Linked_list.exe
+P:\CPlusPlus_Fundation\Linked_list\Debug\Linked_list.pdb
